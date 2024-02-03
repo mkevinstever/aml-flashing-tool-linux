@@ -1,1 +1,1 @@
-If you use this tool and got ddr initization related error. please find devices related file to replace bin in this folder use same name.
+If you use this tool and got ddr initialization related error. please find devices related file to replace bin in this folder use same name.
